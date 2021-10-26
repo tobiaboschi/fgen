@@ -24,7 +24,7 @@ FILES DESCRIPTION:
 THE FOLLOWING PYTHON PACKAGES ARE REQUIRED:
   
     - numpy
-    - Scikit-learn==0.22.2
+    - Scikit-learn
     - scipy
     - time 
     - tqdm
