@@ -23,22 +23,23 @@ FILES DESCRIPTION:
 
 THE FOLLOWING PYTHON PACKAGES ARE REQUIRED:
   
-  - numpy
-  - Scikit-learn==0.22.2
-  - scipy
-  - time 
-  - tqdm
-  - matplotlib
-  - pandas
-  - scikit-fda
+    - numpy
+    - Scikit-learn==0.22.2
+    - scipy
+    - time 
+    - tqdm
+    - matplotlib
+    - pandas
+    - scikit-fda
 
 
 
 
 TO RUN THE CODE: 
-  1) open a python3.8 environment
-  2) Install the package by running `pip install -e .` at the root of the repository, i.e. where the setup.py file is.
-  3) Lunch the desired experiments, e.g. `python experiments/main_core.py`
+
+    1) open a python3.8 environment
+    2) Install the package by running `pip install -e .` at the root of the repository, i.e. where the setup.py file is.
+    3) Lunch the desired experiments, e.g. `python experiments/main_core.py`
 
 
 
