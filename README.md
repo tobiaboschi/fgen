@@ -39,7 +39,7 @@ TO RUN THE CODE:
 
     1) open a python3.8 environment
     2) Install the package by running `pip install -e .` at the root of the repository, i.e. where the setup.py file is.
-    3) Lunch the desired experiments, e.g. `python experiments/main_core.py`
+    3) Lunch the desired experiments, e.g. `python expes/main_core.py`
 
 
 
