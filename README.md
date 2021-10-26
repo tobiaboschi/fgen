@@ -26,7 +26,6 @@ THE FOLLOWING PYTHON PACKAGES ARE REQUIRED:
     - numpy
     - Scikit-learn
     - scipy
-    - time 
     - tqdm
     - matplotlib
     - pandas
