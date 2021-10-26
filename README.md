@@ -45,12 +45,12 @@ TO RUN THE CODE:
 
 THE CODE FOLLOWS A NOTATION DIFFERENT FROM THE ONE OF THE PAPER. It follows the notation of the majority of optimization sofwtares:
 
-m: number of observations
-n: number of features 
-k: number of elements in each group
-A: desing matrix (m x n)
-b: response matrix (m x k)
-x: coefficient matrix (n x k) 
-y: dual variable 1 (m x k)
-z: dual variable 2 (n x k)
+    m: number of observations
+    n: number of features 
+    k: number of elements in each group
+    A: desing matrix (m x n)
+    b: response matrix (m x k)
+    x: coefficient matrix (n x k) 
+    y: dual variable 1 (m x k)
+    z: dual variable 2 (n x k)
 
