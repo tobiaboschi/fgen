@@ -25,7 +25,7 @@ if __name__ == '__main__':
     # --------------------------- #
 
     m = 500  # number of samples
-    n = 20000  # number of features
+    n = 10000  # number of features
 
     not0 = 10  # number of non 0 features
 
