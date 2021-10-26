@@ -3,19 +3,19 @@
 
 FILES DESCRIPTION:
 
-    fgen_core.py:
+    fgen_solver/gen_core.py:
       function to run the fgen algorithm for one fixed value of c_lam
 
-    fgen_path.py:
+    fgen_solver/fgen_path.py:
       function to run the fgen algorithm for a grid of c_lam and compute the tuning criteria for each of them.
 
-    auxiliary_functions.py
+    fgen_solver/auxiliary_functions.py
       contains the auxiliary functions called by fgen_core and fgen_path, including proximal operator functions and conjugate functions.
 
-    experiments/main_core.py:
+    expes/main_core.py:
       main file to run fgen_core and competitor solvers on synthetic data 
 
-    experiments/main_path.py:
+    expes/main_path.py:
       main file to run fgen_path and competitor solvers on synthetic data 
 
 
