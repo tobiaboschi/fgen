@@ -1,6 +1,10 @@
 # fgen
 
 
+A newer version of **fgen** which includes adaptive weights, can be found at https://github.com/tobiaboschi/FASTEN.
+The project contains code to perform Feature Selection for different types of regressions.
+
+
 FILES DESCRIPTION:
 
     fgen_solver/gen_core.py:
